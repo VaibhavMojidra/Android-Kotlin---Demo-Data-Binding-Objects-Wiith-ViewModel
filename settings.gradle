@@ -1,0 +1,2 @@
+rootProject.name = "Data Binding Objects Wiith View Model Kotlin"
+include ':app'
